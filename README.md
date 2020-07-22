@@ -40,8 +40,12 @@ There is no evident overdensity in (ra, dec) so the center is manually fixed. Th
 
 There are between 200-400 members in the observed frame, for this selected cluster region.
 
+<img src="./figs/lynga13_str.png" alt="" width="500"/>
+
 ### Analysis of CMDs
 The V vs BV CMD show a clear overdensity resembling a main sequence. Could be just an artifact due to the variable extinction in the area.
+
+<img src="./figs/lynga13_cmd.png" alt="" width="500"/>
 
 ### Analysis of PMs
 No evident overdensity in the PMs space.
@@ -51,6 +55,7 @@ No evident overdensity in the PMs space.
 ### Analysis of Plx
 No evident overdensity in the Plx space.
 
+<img src="./figs/lynga13_plx.png" alt="" width="500"/>
 
 
 ## LYNGA14
