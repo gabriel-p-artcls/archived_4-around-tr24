@@ -27,7 +27,7 @@ Used the `catalog_match` script to cross-match with Gaia DR2 data. The match tol
 
 There is substantial dispersion in the V versus G magnitude of matched stars, as seen here for NGC6242:
 
-<img src="./figs/cm_ngc6242.png" alt="" width="200"/>
+<img src="./figs/cm_ngc6242.png" alt="" width="400"/>
 
 
 ## LYNGA13
