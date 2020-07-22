@@ -46,7 +46,7 @@ The V vs BV CMD show a clear overdensity resembling a main sequence. Could be ju
 ### Analysis of PMs
 No evident overdensity in the PMs space.
 
-<img src="./figs/lynga13_pms.png" alt="" width="400"/>
+<img src="./figs/lynga13_pms.png" alt="" width="500"/>
 
 ### Analysis of Plx
 No evident overdensity in the Plx space.
@@ -69,7 +69,7 @@ There is no clear sequence in the V vs BV diagram, before or after selecting tho
 ### Analysis of PMs
 There is a clear overdensity in the PMS space centered at $(\mu_{\alpha} cos{\delta}, \mu_{\delta}) = (-0.36, -1.93) [mas/yr]$. Stars in this overdensity cover the entire range of coordinates (i.e.: are not spatially clustered in our observed frame).
 
-<img src="./figs/lynga14_pms.png" alt="" width="400"/>
+<img src="./figs/lynga14_pms.png" alt="" width="500"/>
 
 ### Analysis of Plx
 The stars in the PM overdensity seem to cluster around ~0.4 [mas], but with considerable scatter.
@@ -89,7 +89,7 @@ Very clear sequence with a TO point at V~12 mag.
 ### Analysis of PMs
 Very clear overdensity in PMs, centered at $(\mu_{\alpha} cos{\delta}, \mu_{\delta}) = (1.64, -0.26) [mas/yr]$
 
-<img src="./figs/ngc6192_pms.png" alt="" width="400"/>
+<img src="./figs/ngc6192_pms.png" alt="" width="500"/>
 
 ### Analysis of Plx
 Clear grouping around ~0.6 mas.
@@ -112,7 +112,7 @@ There is a distinct sequence in the V vs BV diagram, but it also shows in the fi
 The PMs analysis confirms that the cluster region obtained through structural analysis is not correct. There is a very clear overdensity in the PMs space, centered at
 $(\mu_{\alpha} cos{\delta}, \mu_{\delta}) = (1.08, -0.90) [mas/yr]$. The coordinates of stars in this overdensity are distributed across the entire observed frame.
 
-<img src="./figs/ngc6242_pms.png" alt="" width="400"/>
+<img src="./figs/ngc6242_pms.png" alt="" width="500"/>
 
 ### Analysis of Plx
 Clear grouping around ~0.75 mas.
