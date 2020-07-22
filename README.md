@@ -1,11 +1,45 @@
 
 # Four clusters around TR24
 
-Analysis of four clusters located around Trumpler 24.
+Analysis of four clusters located around Trumpler 24: Lynga13, Lynga14, NGC6192, NGC6242
 
-- [x] Cleaned the NGC6242 file (lots of '0' values instead of INDEFs for UB, plus there were extra unidentified columns and rows). The 'alpha' row in this cluster is in hours, not degrees.
-- [x] Cleaned the remaining files, mainly from INDEFs
-- [x] Cross match with Gaia DR2 using `catalog_match`
+<!-- MarkdownTOC -->
+
+- Cleaning
+- Cross match with Gaia DR2
+- LYNGA13
+    - Structural analysis
+    - Analysis of CMDs
+    - Analysis of PMs
+    - Analysis of Plx
+- LYNGA14
+    - Structural analysis
+    - Analysis of CMDs
+    - Analysis of PMs
+    - Analysis of Plx
+- NGC6192
+    - Structural analysis
+    - Analysis of CMDs
+    - Analysis of PMs
+    - Analysis of Plx
+- NGC6242
+    - Structural analysis
+    - Analysis of CMDs
+    - Analysis of PMs
+    - Analysis of Plx
+
+<!-- /MarkdownTOC -->
+
+
+## Cleaning
+
+Cleaned the NGC6242 file (lots of '0' values instead of INDEFs for UB, plus there were extra unidentified columns and rows). The 'alpha' row in this cluster is in hours, not degrees.
+
+Also leaned the remaining files, mainly from INDEFs
+
+
+## Cross match with Gaia DR2
+Used the `catalog_match` script to cross-match with Gaia DR2 data. The match tolerance used is 10 arcsec, and the magnitude difference cut is turned off.
 
 
 ## LYNGA13
