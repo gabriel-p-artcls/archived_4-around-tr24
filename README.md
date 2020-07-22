@@ -45,7 +45,7 @@ There are between 200-400 members in the observed frame, for this selected clust
 ### Analysis of CMDs
 The V vs BV CMD show a clear overdensity resembling a main sequence. Could be just an artifact due to the variable extinction in the area.
 
-<img src="./figs/lynga13_cmd.png" alt="" width="500"/>
+<img src="./figs/lynga13_cmd.png" alt="" width="700"/>
 
 ### Analysis of PMs
 No evident overdensity in the PMs space.
@@ -68,8 +68,12 @@ The field shows a large and spread out overdensity in the northern portion of th
 
 The number of members in the frame is unclear as a cluster region can not be determined. From PMs analysis it can be approximated to ~70
 
+<img src="./figs/lynga14_str.png" alt="" width="500"/>
+
 ### Analysis of CMDs
 There is no clear sequence in the V vs BV diagram, before or after selecting those stars in the PMS overdensity.
+
+<img src="./figs/lynga14_cmd.png" alt="" width="700"/>
 
 ### Analysis of PMs
 There is a clear overdensity in the PMS space centered at $(\mu_{\alpha} cos{\delta}, \mu_{\delta}) = (-0.36, -1.93) [mas/yr]$. Stars in this overdensity cover the entire range of coordinates (i.e.: are not spatially clustered in our observed frame).
@@ -78,6 +82,8 @@ There is a clear overdensity in the PMS space centered at $(\mu_{\alpha} cos{\de
 
 ### Analysis of Plx
 The stars in the PM overdensity seem to cluster around ~0.4 [mas], but with considerable scatter.
+
+<img src="./figs/lynga14_plx.png" alt="" width="500"/>
 
 
 ## NGC6192
@@ -88,8 +94,12 @@ The stars in the PM overdensity seem to cluster around ~0.4 [mas], but with cons
 ### Structural analysis
 Very clear overdensity with ~150 estimated members. The radius is estimated around ~3.7 arcmin.
 
+<img src="./figs/ngc6192_str.png" alt="" width="500"/>
+
 ### Analysis of CMDs
 Very clear sequence with a TO point at V~12 mag.
+
+<img src="./figs/ngc6192_cmd.png" alt="" width="700"/>
 
 ### Analysis of PMs
 Very clear overdensity in PMs, centered at $(\mu_{\alpha} cos{\delta}, \mu_{\delta}) = (1.64, -0.26) [mas/yr]$
@@ -98,6 +108,8 @@ Very clear overdensity in PMs, centered at $(\mu_{\alpha} cos{\delta}, \mu_{\del
 
 ### Analysis of Plx
 Clear grouping around ~0.6 mas.
+
+<img src="./figs/ngc6192_plx.png" alt="" width="500"/>
 
 
 ## NGC6242
@@ -110,8 +122,12 @@ There seem to be two or three separate overdensities in the frame, but this is l
 
 The estimated number of members in the cluster region is between 500-700.
 
+<img src="./figs/ngc6242_str.png" alt="" width="500"/>
+
 ### Analysis of CMDs
 There is a distinct sequence in the V vs BV diagram, but it also shows in the fields surrounding the cluster region. This could be due to an underestimated radius for the cluster region.
+
+<img src="./figs/ngc6242_cmd.png" alt="" width="700"/>
 
 ### Analysis of PMs
 The PMs analysis confirms that the cluster region obtained through structural analysis is not correct. There is a very clear overdensity in the PMs space, centered at
@@ -121,3 +137,5 @@ $(\mu_{\alpha} cos{\delta}, \mu_{\delta}) = (1.08, -0.90) [mas/yr]$. The coordin
 
 ### Analysis of Plx
 Clear grouping around ~0.75 mas.
+
+<img src="./figs/ngc6242_plx.png" alt="" width="500"/>
