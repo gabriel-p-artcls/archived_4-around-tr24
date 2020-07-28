@@ -11,6 +11,7 @@ Analysis of four clusters located around Trumpler 24: Lynga13, Lynga14, NGC6192,
 1. [LYNGA14](#lynga14)
 1. [NGC6192](#ngc6192)
 1. [NGC6242](#ngc6242)
+1. [Membership analysis](#membership-analysis)
 
 <!-- /MarkdownTOC -->
 
@@ -139,3 +140,9 @@ $(\mu_{\alpha} cos{\delta}, \mu_{\delta}) = (1.08, -0.90) [mas/yr]$. The coordin
 Clear grouping around ~0.75 mas.
 
 <img src="./figs/ngc6242_plx.png" alt="" width="500"/>
+
+
+
+## Membership analysis
+
+Used OPTICS+DBSCAN to assign membership probabilities. What's there now is a rough approximation. A better estimation needs to use `Nruns=50` and `min_samples_rng=(10, 60, 1)`
