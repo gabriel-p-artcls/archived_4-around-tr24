@@ -145,4 +145,4 @@ Clear grouping around ~0.75 mas.
 
 ## Membership analysis
 
-Used OPTICS+DBSCAN to assign membership probabilities. What's there now is a rough approximation. A better estimation needs to use `Nruns=50` and `min_samples_rng=(10, 60, 1)`
+Used the OPTICS code to assign membership probabilities. IN PROGRESS
