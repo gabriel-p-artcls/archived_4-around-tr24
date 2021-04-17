@@ -1,7 +1,14 @@
 
 # Four clusters around TR24
 
-Analysis of four clusters located around Trumpler 24: Lynga13, Lynga14, NGC6192, NGC6242
+Analysis of four clusters located around Trumpler 24:
+
+```
+NGC6242 (16:55:32.38 −39:28:02.0)
+Lynga13 (16:48:53 −43:26:00)
+NGC6192 (16:40:16.40 −43:30:31.0)
+Lynga14 (16:55:03.40 −45:14:09.1)
+```
 
 <!-- MarkdownTOC levels="1,2" autolink="true" style="ordered" -->
 
